@@ -1,0 +1,147 @@
+html {
+    background-color: rgb(18, 18, 81);
+}
+
+body {
+    display: block;
+    /* align-items: center;
+    justify-content: center; */
+} 
+
+h4 {
+    color: white;
+    text-shadow: 0px 0px 5px lightblue;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 2em auto;
+}
+
+h1{
+    color: white;
+    text-shadow: 0px 0px 5px lightblue;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 8rem auto;
+}
+
+
+.inp {
+    width: 100%;
+    display: inline-flex;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -4em;
+}
+
+span {
+    font-size: larger;
+    text-shadow: 0px 0px 10px lightblue;
+
+}
+
+.who {
+    font-size: smaller;
+}
+
+h5 {
+    color: white;
+    text-shadow: 0px 0px 5px lightblue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+a {
+    border-radius: .8rem;
+    border-color: transparent;
+    box-shadow: 0px 0px 5px lightblue;
+    font-weight: 600;
+    font-size: 1.5rem; 
+    background-color: white;
+    border: none;
+    color:rgb(18, 18, 81);
+    padding: .5em .8em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.yn {
+    display: block;
+    width: 60%;
+    margin: 1em auto;
+    padding-bottom: 2em;
+    position: relative;
+    top: -3em;
+}
+
+.yn a {
+    margin: .4em auto;
+}
+
+.next {
+    width: auto;
+}
+
+.tu {
+    font-size: 5em;
+    text-shadow: 0px 0px 5px white;
+}
+
+p {
+    color: white;
+    text-shadow: 0px 0px 5px lightblue;
+    font-family: sans-serif;
+    text-align: center;
+    margin: .5em auto;
+    font-weight: bold;
+}
+
+.bst {
+    font-size: 2.5em;
+}
+
+.cor {
+    background-image: url("https://i.gifer.com/YGg4.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+}
+
+.img {
+    
+    position: relative;
+    top: -4em;
+}
+
+.mail {
+    margin: 0 auto;
+    position: relative;
+    left: 46%;
+    top: -3em;
+}
+
+.prev {
+    width: auto;
+}
+
+a:hover {
+    box-shadow: 0px 0px 10px lightblue;
+    cursor: pointer;
+}
